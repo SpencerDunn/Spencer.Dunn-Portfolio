@@ -1,22 +1,18 @@
 
-.nav-container{
-  display:flex;
-  flex-flow: row wrap;
-  justify-content: space-between;
-  border:1px solid black;
-  background-color: black;
-  min-height:50px;
-}
-nav>ul{
-  list-style-type:none;
-  margin:0;
-  dispaly:inline;
-  margin:10xp;
-  line-height:50px;
+/*Nav*/
+.main-nav {
+background-color: $base-color;
+color:white;
+display:flex;
+flex-flow: row wrap;
+justify-content: space-between;
+width:100%;
+height:100px;
 }
 
-nav>ul>li{
-  display: inline;
-  color: white;
-  margin: 5xp;
+nav > ul {
+margin: 0;
+padding: 0;
+display: inline;
 }
+
