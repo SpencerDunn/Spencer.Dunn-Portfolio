@@ -1,6 +1,6 @@
 title: Spencer.Dunn-portfolio
 email: Spencer.Dunn01@stcalirconnect.ca
-baseurl: ""
-url: ""
+baseurl: "https://SpencerDunn.github.io" 
+url: "/Spencer-Dunn" 
 sass:
   style: compact
